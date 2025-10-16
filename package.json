@@ -12,9 +12,10 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
